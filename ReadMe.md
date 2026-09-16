@@ -1,9 +1,86 @@
-# 💫 About Me:
-🔭 I’m currently working on Elixir/Phoenix/Python/Django<br>👯 I’m looking to collaborate on Django/Phoenix code base<br>🌱 I’m currently learning React<br>⚡ Fun fact I do surprisingly well under strict deadlines
+<div align="center">
 
+# Hi, I’m Hassaan Aslam 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://pk.linkedin.com/in/hassaan-aslam) 
+### Senior Software Engineer · Elixir/Phoenix Specialist · Founder of Appsynth
 
-# 💻 Tech Stack:
-![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=plastic&logo=erlang&logoColor=a90533) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=plastic&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
+I help SaaS companies ship reliable products, modernize complex systems, and add experienced engineering capacity without waiting months to hire.
+
+[![Appsynth](https://img.shields.io/badge/Appsynth-Visit_Website-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://appsynth.co/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaan-aslam/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassaanaslam08@gmail.com)
+
+</div>
+
+---
+
+## What I do
+
+I work with founders, CTOs, and engineering teams that need to move an important product or platform forward.
+
+- **Backend engineering:** scalable APIs, distributed systems, real-time features, background processing, and complex business workflows
+- **Product delivery:** complete SaaS, web, and mobile products—from technical planning through production
+- **Modernization:** Phoenix and OTP upgrades, legacy-system recovery, performance improvements, and incremental migrations
+- **Cloud and data:** AWS infrastructure, CI/CD, ETL pipelines, serverless workflows, and operational tooling
+- **AI-enabled products:** practical AI features and workflow automation integrated into existing applications
+- **Engineering capacity:** senior embedded engineers and managed delivery teams through [Appsynth](https://appsynth.co/)
+
+## Selected impact
+
+| Challenge | Result |
+| --- | --- |
+| Slow operational reports | Reduced response time from **10+ seconds to under 2 seconds** |
+| Long-running reporting workflow | Reduced processing time from **about 20 minutes to about 5 minutes** |
+| Legacy Phoenix and OTP systems | Delivered framework upgrades, PubSub modernization, and production stability improvements |
+| Data-heavy cloud workflows | Built and operated Python ETL services and AWS ECS/serverless delivery pipelines |
+| Real-time products | Delivered APIs, GraphQL services, WebSockets, LiveView interfaces, and event-driven workflows |
+
+## Core expertise
+
+<div align="center">
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![Erlang](https://img.shields.io/badge/OTP-A90533?style=flat-square&logo=erlang&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+**Backend:** Elixir, Phoenix, OTP, LiveView, Absinthe, Ecto, Python, Node.js  
+**Frontend and mobile:** React, TypeScript, React Native, Vue  
+**Data and infrastructure:** PostgreSQL, Redis, AWS, Docker, CI/CD, ETL and serverless systems
+
+## How I work
+
+- Start with the business outcome, not the technology
+- Communicate risks and tradeoffs clearly
+- Improve existing systems without unnecessary rewrites
+- Build for reliability, maintainability, and operational visibility
+- Work comfortably with distributed teams and overlapping US hours
+
+## Work with me
+
+I’m a good fit when you need to:
+
+- accelerate a delayed roadmap;
+- add senior engineering capacity;
+- stabilize or recover an outsourced project;
+- modernize an Elixir/Phoenix backend;
+- build a web or mobile SaaS product;
+- deliver an AWS, data, or AI-enabled workflow.
+
+For individual technical leadership or engineering work, contact me directly. For an embedded engineer or a managed product team, visit **[Appsynth](https://appsynth.co/)**.
+
+<div align="center">
+
+### Have a product or delivery problem worth solving?
+
+[**Email me**](mailto:hassaanaslam08@gmail.com) · [**Connect on LinkedIn**](https://www.linkedin.com/in/hassaan-aslam/) · [**Visit Appsynth**](https://appsynth.co/)
+
+</div>
