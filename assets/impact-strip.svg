@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" role="img" aria-labelledby="title desc">
+  <title id="title">Selected engineering impact</title><desc id="desc">Four cards describing performance, workflow, product and delivery impact.</desc>
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#172554"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-opacity=".22"/></filter></defs>
+  <rect width="1280" height="220" rx="24" fill="#f8fafc"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" filter="url(#s)">
+    <g transform="translate(25 25)"><rect width="287" height="170" rx="18" fill="url(#b)"/><text x="28" y="59" fill="#67e8f9" font-size="34" font-weight="800">&lt; 2 sec</text><text x="28" y="91" fill="#fff" font-size="17" font-weight="700">REPORTING</text><text x="28" y="123" fill="#cbd5e1" font-size="14">Reduced from 10+ seconds</text><rect x="28" y="143" width="170" height="5" rx="3" fill="#22d3ee"/></g>
+    <g transform="translate(339 25)"><rect width="287" height="170" rx="18" fill="url(#b)"/><text x="28" y="59" fill="#93c5fd" font-size="34" font-weight="800">4× faster</text><text x="28" y="91" fill="#fff" font-size="17" font-weight="700">WORKFLOW</text><text x="28" y="123" fill="#cbd5e1" font-size="14">~20 minutes reduced to ~5</text><rect x="28" y="143" width="190" height="5" rx="3" fill="#60a5fa"/></g>
+    <g transform="translate(653 25)"><rect width="287" height="170" rx="18" fill="url(#b)"/><text x="28" y="59" fill="#c4b5fd" font-size="30" font-weight="800">Web → Mobile</text><text x="28" y="91" fill="#fff" font-size="17" font-weight="700">PRODUCT DELIVERY</text><text x="28" y="123" fill="#cbd5e1" font-size="14">Offline, payments, media, release</text><rect x="28" y="143" width="205" height="5" rx="3" fill="#a78bfa"/></g>
+    <g transform="translate(967 25)"><rect width="287" height="170" rx="18" fill="url(#b)"/><text x="28" y="59" fill="#f0abfc" font-size="30" font-weight="800">Idea → Prod</text><text x="28" y="91" fill="#fff" font-size="17" font-weight="700">END-TO-END</text><text x="28" y="123" fill="#cbd5e1" font-size="14">Architecture through operations</text><rect x="28" y="143" width="215" height="5" rx="3" fill="#e879f9"/></g>
+  </g>
+</svg>
