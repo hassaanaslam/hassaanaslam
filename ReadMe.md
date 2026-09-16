@@ -8,7 +8,6 @@ I help SaaS companies ship reliable products, modernize complex systems, and add
 
 [![Appsynth](https://img.shields.io/badge/Appsynth-Visit_Website-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://appsynth.co/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaan-aslam/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassaanaslam08@gmail.com)
 
 </div>
 
@@ -75,12 +74,12 @@ I’m a good fit when you need to:
 - build a web or mobile SaaS product;
 - deliver an AWS, data, or AI-enabled workflow.
 
-For individual technical leadership or engineering work, contact me directly. For an embedded engineer or a managed product team, visit **[Appsynth](https://appsynth.co/)**.
+For individual technical leadership or engineering work, connect with me on LinkedIn. For an embedded engineer or a managed product team, visit **[Appsynth](https://appsynth.co/)**.
 
 <div align="center">
 
 ### Have a product or delivery problem worth solving?
 
-[**Email me**](mailto:hassaanaslam08@gmail.com) · [**Connect on LinkedIn**](https://www.linkedin.com/in/hassaan-aslam/) · [**Visit Appsynth**](https://appsynth.co/)
+[**Connect on LinkedIn**](https://www.linkedin.com/in/hassaan-aslam/) · [**Visit Appsynth**](https://appsynth.co/)
 
 </div>
