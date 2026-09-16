@@ -1,85 +1,172 @@
 <div align="center">
 
-# Hi, I’m Hassaan Aslam 👋
+<img src="./assets/hybrid-hero.svg" width="100%" alt="Hassaan Aslam — Senior Software Engineer, Product Builder, Technical Leader and Founder" />
 
-### Senior Software Engineer · Elixir/Phoenix Specialist · Founder of Appsynth
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=950&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-stack+product+engineering;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+Cloud;Data+platforms+and+AI-enabled+workflows;From+difficult+problem+to+reliable+production+outcome" alt="Full-stack product engineering" /></a>
 
-I help SaaS companies ship reliable products, modernize complex systems, and add experienced engineering capacity without waiting months to hire.
-
-[![Appsynth](https://img.shields.io/badge/Appsynth-Visit_Website-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://appsynth.co/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaan-aslam/)
+[![Appsynth](https://img.shields.io/badge/APPSYNTH-Explore_the_team-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://appsynth.co/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaan-aslam/)
+[![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassaanaslam)
 
 </div>
 
----
+## Engineering products that move businesses forward
 
-## What I do
+I’m a senior software engineer and delivery leader working across **web, mobile, backend, cloud, data, and AI-enabled products**. I help founders, CTOs, and product teams turn difficult technical problems into dependable production outcomes.
 
-I work with founders, CTOs, and engineering teams that need to move an important product or platform forward.
+I work hands-on across architecture and implementation, while also leading [Appsynth](https://appsynth.co/)—an engineering company providing embedded developers and managed product teams.
 
-- **Backend engineering:** scalable APIs, distributed systems, real-time features, background processing, and complex business workflows
-- **Product delivery:** complete SaaS, web, and mobile products—from technical planning through production
-- **Modernization:** Phoenix and OTP upgrades, legacy-system recovery, performance improvements, and incremental migrations
-- **Cloud and data:** AWS infrastructure, CI/CD, ETL pipelines, serverless workflows, and operational tooling
-- **AI-enabled products:** practical AI features and workflow automation integrated into existing applications
-- **Engineering capacity:** senior embedded engineers and managed delivery teams through [Appsynth](https://appsynth.co/)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Selected impact
+### 🚀 Build
 
-| Challenge | Result |
-| --- | --- |
-| Slow operational reports | Reduced response time from **10+ seconds to under 2 seconds** |
-| Long-running reporting workflow | Reduced processing time from **about 20 minutes to about 5 minutes** |
-| Legacy Phoenix and OTP systems | Delivered framework upgrades, PubSub modernization, and production stability improvements |
-| Data-heavy cloud workflows | Built and operated Python ETL services and AWS ECS/serverless delivery pipelines |
-| Real-time products | Delivered APIs, GraphQL services, WebSockets, LiveView interfaces, and event-driven workflows |
+SaaS platforms, web and mobile products, APIs, real-time systems, data workflows, and AI-enabled features.
 
-## Core expertise
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Modernize
+
+Legacy applications, slow queries, fragile deployments, outdated infrastructure, and difficult integrations.
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Accelerate
+
+Delayed roadmaps through technical leadership, embedded engineers, or a focused product-delivery team.
+
+</td>
+</tr>
+</table>
+
+## Proof, not buzzwords
+
+<img src="./assets/impact-strip.svg" width="100%" alt="Selected engineering impact: faster reporting, workflows, mobile products and end-to-end delivery" />
+
+| Problem | What I changed | Improvement |
+| --- | --- | --- |
+| PostgreSQL reports and pages were slow enough to interrupt operational work | Optimized queries, introduced materialized views, and redesigned data-access paths | **50%+ faster loads** across affected paths; one report improved from **10+ seconds to under 2 seconds** |
+| A reporting workflow took roughly 20 minutes | Reworked its query and processing architecture | Reduced execution to **about 5 minutes**—approximately **4× faster** |
+| Older Phoenix/OTP applications carried upgrade and reliability risk | Upgraded frameworks and runtimes; modernized PubSub, ETS/Registry, Presence, and releases | Safer deployments, current runtime support, and more reliable real-time behavior |
+| Parser, transformer, and orchestration services were difficult to deploy consistently | Built Python ETL services using AWS ECS/ECR, Docker, serverless orchestration, CI/CD, and monitoring | More repeatable delivery, clearer service boundaries, and easier operations |
+| Mobile workflows needed to function with unreliable connectivity | Led React Native delivery with offline support, media, notifications, payments, authentication, and store releases | Dependable real-world workflows and sustained production delivery |
+| Customer journeys depended on many sensitive integrations | Built GraphQL/REST APIs, WebSockets, passwordless authentication, Stripe, SMS, CAPTCHA, and S3 workflows | Expanded product capability while keeping integrations maintainable |
+
+## Selected work
+
+> Commercial details are summarized to respect client confidentiality.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Operational SaaS platform
+
+Built React and Phoenix capabilities for mobile ordering, real-time updates, operational dashboards, and reporting. Improved slow reporting through PostgreSQL query design and materialized views.
+
+**Stack:** React · Elixir/Phoenix · LiveView · PostgreSQL · WebSockets
+
+</td>
+<td width="50%" valign="top">
+
+### Cloud ETL platform
+
+Built and operated parsing, transformation, scripting, orchestration, and data-mashing services with repeatable cloud delivery.
+
+**Stack:** Python · AWS ECS/ECR · Lambda · Docker · CI/CD
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Production mobile products
+
+Led delivery for React Native products supporting offline operation, camera and media workflows, notifications, payments, authentication, and app-store releases.
+
+**Stack:** React Native · Expo · Node.js · Native integrations
+
+</td>
+<td width="50%" valign="top">
+
+### Platform modernization
+
+Modernized legacy umbrella applications across framework upgrades, PubSub, Presence, process coordination, state machines, containerized development, and release workflows.
+
+**Stack:** Elixir/OTP · Phoenix · Rails · Docker · AWS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Real-time coaching and workflow systems
+
+Delivered GraphQL services, passwordless authentication, responsive client/server flows, real-time communication, and secure product integrations.
+
+**Stack:** Absinthe · GraphQL · Next.js · Apollo · Phoenix
+
+</td>
+<td width="50%" valign="top">
+
+### Integrated customer platforms
+
+Implemented SMS, CAPTCHA, S3 uploads, Stripe payments, authentication, Presence, and supporting backend workflows in production applications.
+
+**Stack:** Phoenix · PostgreSQL · AWS S3 · Stripe · SMS
+
+</td>
+</tr>
+</table>
+
+## Technology radar
 
 <div align="center">
 
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
-![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
-![Erlang](https://img.shields.io/badge/OTP-A90533?style=flat-square&logo=erlang&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Product
+
+![Product technologies](https://skillicons.dev/icons?i=react,ts,js,nodejs,vue,tailwind)
+
+### Systems and data
+
+![Systems technologies](https://skillicons.dev/icons?i=elixir,python,postgres,redis,graphql,rabbitmq)
+
+### Cloud and delivery
+
+![Delivery technologies](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux)
 
 </div>
 
-**Backend:** Elixir, Phoenix, OTP, LiveView, Absinthe, Ecto, Python, Node.js  
-**Frontend and mobile:** React, TypeScript, React Native, Vue  
-**Data and infrastructure:** PostgreSQL, Redis, AWS, Docker, CI/CD, ETL and serverless systems
+## Product domains
+
+`SaaS operations` · `Mobile commerce` · `Field workflows` · `Healthcare` · `Delivery and logistics` · `Sports analytics` · `Coaching platforms` · `Data pipelines` · `AI-enabled work management`
 
 ## How I work
 
-- Start with the business outcome, not the technology
-- Communicate risks and tradeoffs clearly
-- Improve existing systems without unnecessary rewrites
-- Build for reliability, maintainability, and operational visibility
-- Work comfortably with distributed teams and overlapping US hours
+```text
+Understand the outcome → reduce uncertainty → deliver in small increments → measure → improve
+```
 
-## Work with me
+- Business context before technology selection
+- Clear communication about risks and tradeoffs
+- Incremental modernization instead of unnecessary rewrites
+- Reliability, maintainability, and operational visibility
+- Comfortable collaboration with distributed teams and US working hours
 
-I’m a good fit when you need to:
-
-- accelerate a delayed roadmap;
-- add senior engineering capacity;
-- stabilize or recover an outsourced project;
-- modernize an Elixir/Phoenix backend;
-- build a web or mobile SaaS product;
-- deliver an AWS, data, or AI-enabled workflow.
-
-For individual technical leadership or engineering work, connect with me on LinkedIn. For an embedded engineer or a managed product team, visit **[Appsynth](https://appsynth.co/)**.
+---
 
 <div align="center">
 
-### Have a product or delivery problem worth solving?
+## Have a product or delivery problem worth solving?
 
-[**Connect on LinkedIn**](https://www.linkedin.com/in/hassaan-aslam/) · [**Visit Appsynth**](https://appsynth.co/)
+For senior engineering and technical leadership, **[connect with me on LinkedIn](https://www.linkedin.com/in/hassaan-aslam/)**.  
+For embedded engineers or a managed product team, visit **[Appsynth](https://appsynth.co/)**.
+
+[![Start a Conversation](https://img.shields.io/badge/START_A_CONVERSATION-Let's_build_something-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaan-aslam/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050B18,55:0B2855,100:312E81)
 
 </div>
